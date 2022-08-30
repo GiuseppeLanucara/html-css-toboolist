@@ -41,6 +41,7 @@ nav{
 /* Colore di background del body */
 body{
     background-color: rgb(240, 236, 232);
+    margin-bottom: 2em;
 }
 
 /* Stile Bottone del Task */
@@ -73,7 +74,7 @@ main{
     background-color: #ffffff;
     width: 50%;
     margin: auto;
-    padding-bottom: 12em;
+    padding-bottom: 10em;
 }
 
 /* Stile applicato alle tre sezioni */
