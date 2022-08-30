@@ -67,3 +67,20 @@ body{
     margin-top: 1rem;
     width: fit-content;
 }
+
+main{
+    background-color: #ffffff;
+    width: 50%;
+    margin: auto;
+}
+
+section{
+    padding-top: 1rem;
+    width: 85%;
+    margin: auto;
+    text-align: left;
+}
+
+ul{
+    list-style-type: none;
+}
