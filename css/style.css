@@ -3,3 +3,25 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header{
+    height: 80px;
+    line-height: 80px;
+    background-color: #ffffff;
+}
+
+#logo{
+    vertical-align: middle;
+    margin-left: 1.5rem;
+}
+
+#nomesito{
+    font-size: 3.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+main{
+    background-color: rgb(240, 236, 232);
+}
