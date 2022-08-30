@@ -1,9 +1,11 @@
+/* Reset bordi e margini */
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+/* Altezza e colore di background dell'Header */
 header{
     height: 80px;
     line-height: 80px;
@@ -11,11 +13,13 @@ header{
     margin-bottom: 2rem;
 }
 
+/* Centrature verticale del logo */
 #logo{
     vertical-align: middle;
     margin-left: 1.5rem;
 }
 
+/* Font del nome del sito e allineamento */
 #nomesito{
     font-size: 3.5em;
     font-family: Arial, Helvetica, sans-serif;
@@ -23,6 +27,7 @@ header{
     vertical-align: middle;
 }
 
+/* Stili applicati al Nav */
 nav{
     background-color: #ffffff;
     line-height: 60px;
@@ -33,10 +38,12 @@ nav{
     border-bottom: 3px solid rgb(240, 236, 232);
 }
 
+/* Colore di background del body */
 body{
     background-color: rgb(240, 236, 232);
 }
 
+/* Stile Bottone del Task */
 #taskbutton{
     background-color: #87cefa;
     border: #87cefa;
@@ -49,6 +56,7 @@ body{
     
 }
 
+/* Stile Bottone dell Add Section */
 #addbutton{
     background-color: #ffffff;
     border: 1px solid #c0bfbf;
