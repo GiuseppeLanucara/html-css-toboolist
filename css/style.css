@@ -8,6 +8,7 @@ header{
     height: 80px;
     line-height: 80px;
     background-color: #ffffff;
+    margin-bottom: 2rem;
 }
 
 #logo{
@@ -22,6 +23,39 @@ header{
     vertical-align: middle;
 }
 
-main{
+nav{
+    background-color: #ffffff;
+    line-height: 60px;
+    width: 50%;
+    margin: auto;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom: 3px solid rgb(240, 236, 232);
+}
+
+body{
     background-color: rgb(240, 236, 232);
+}
+
+#taskbutton{
+    background-color: #87cefa;
+    border: #87cefa;
+    padding: 0.7rem;
+    border-radius: 0.5rem;
+    color: #ffffff;
+    margin-left: 3.5rem;
+    margin-top: 1rem;
+    width: fit-content;
+    
+}
+
+#addbutton{
+    background-color: #ffffff;
+    border: 1px solid #c0bfbf;
+    padding: 0.6rem;
+    border-radius: 0.5rem;
+    color: #c0bfbf;
+    margin-left: 0.5rem;
+    margin-top: 1rem;
+    width: fit-content;
 }
