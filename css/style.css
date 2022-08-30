@@ -74,7 +74,9 @@ main{
     background-color: #ffffff;
     width: 50%;
     margin: auto;
-    padding-bottom: 10em;
+    padding-bottom: 5em;
+    border-bottom-left-radius: 0.5em;
+    border-bottom-right-radius: 0.5em;
 }
 
 /* Stile applicato alle tre sezioni */
