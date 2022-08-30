@@ -68,12 +68,15 @@ body{
     width: fit-content;
 }
 
+/* Colore sfondo del main e impostazione di centratura  */
 main{
     background-color: #ffffff;
     width: 50%;
     margin: auto;
+    padding-bottom: 12em;
 }
 
+/* Stile applicato alle tre sezioni */
 section{
     padding-top: 1em;
     width: 88%;
@@ -81,10 +84,12 @@ section{
     text-align: left;
 }
 
+/* Stile applicato alle tre ul */
 ul{
     list-style-type: none;
 }
 
+/* Stile applicato ai titole delle tre sezioni */
 h3{
     font-size: larger;
     font-family: Arial, Helvetica, sans-serif;
@@ -94,12 +99,14 @@ h3{
     
 }
 
+/* Carattere speciale */
 .arrow{
     font-size: small;
     color: rgb(37, 37, 37);
 
 }
 
+/* Carattere speciale della lista */
 .check{
     background-color: white;
     color: green;
@@ -110,6 +117,7 @@ h3{
     margin-right: 0.7em;
 }
 
+/* Altro carattere speciale della lista */
 .cross{
     background-color: white;
     color: red;
@@ -121,6 +129,7 @@ h3{
 
 }
 
+/* Stile applicato ai list item delle tre sezioni */
 li{
     padding: 1em;
     margin-left: -1em;
@@ -129,66 +138,72 @@ li{
     color: rgb(54, 52, 52);
 }
 
+/* Eticehtta Editorial */
 .editorial{
     color: #ffffff;
     background-color: #87cefa;
     margin-left: 0.5em;
-    padding: 0.2rem;
+    padding: 0.2em;
     font-size: smaller;
     padding-left: 0.5em;
     padding-right: 0.5em;
     border-radius: 1em;
 }
 
+/* Etichetta Goals */
 .goals{
     color: #ffffff;
     background-color: purple;
     margin-left: 0.5em;
-    padding: 0.2rem;
+    padding: 0.2em;
     font-size: smaller;
     padding-left: 0.5em;
     padding-right: 0.5em;
     border-radius: 1em;  
 }
 
+/* Etichetta Recruit */
 .recruit{
     color: #ffffff;
     background-color: rgb(26, 192, 164);
     margin-left: 0.5em;
-    padding: 0.2rem;
+    padding: 0.2em;
     font-size: smaller;
     padding-left: 0.5em;
     padding-right: 0.5em;
     border-radius: 1em;   
 }
 
+/* Etichetta Mobile */
 .mobile{
     color: #ffffff;
     background-color: orange;
     margin-left: 0.5em;
-    padding: 0.2rem;
+    padding: 0.2em;
     font-size: smaller;
     padding-left: 0.5em;
     padding-right: 0.5em;
     border-radius: 1em;  
 }
 
+/* Etichetta Website */
 .website{
     color: #ffffff;
     background-color: rgb(223, 113, 132);
     margin-left: 0.5em;
-    padding: 0.2rem;
+    padding: 0.2em;
     font-size: smaller;
     padding-left: 0.5em;
     padding-right: 0.5em;
     border-radius: 1em;   
 }
 
+/* Etichetta Sales */
 .sales{
     color: #ffffff;
     background-color: limegreen;
     margin-left: 0.5em;
-    padding: 0.2rem;
+    padding: 0.2em;
     font-size: smaller;
     padding-left: 0.5em;
     padding-right: 0.5em;
